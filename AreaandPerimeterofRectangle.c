@@ -1,4 +1,4 @@
-Q3. Write a program to print Area & Perimeter of Rectangle given its length and breadth.
+// Q3. Write a program to print Area & Perimeter of Rectangle given its length and breadth.
 
 #include <stdio.h>
 int main()
