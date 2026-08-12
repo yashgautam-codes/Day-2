@@ -1,4 +1,4 @@
-Q4. Write a program to print Area & Circumference of the circle given it's radius. 
+// Q4. Write a program to print Area & Circumference of the circle given it's radius. 
 
 #include <stdio.h>
 int main()
